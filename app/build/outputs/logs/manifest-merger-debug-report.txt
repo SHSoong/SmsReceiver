@@ -1,0 +1,170 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4366b4075c0ad1cf7aec84ebba6483c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a3dcb461ca4c54d48938e4e5dc4c40d7/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f09d82c039003d5e8cd015aa80105b53/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/4ab754e956f12b1997c0fa3a09a2f934/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/0704d1873b648ec9758feebf29b79123/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/12fbe091f5f6e11ba9ad8fc93d5e59d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/fefd4159f86d554a43f21e89d3c83dc5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c09ef63c5e80899728644f7b6c27eada/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/8f9eabb50d9a04c15af051bded36f97d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/5b203f6246a47fdc0eb42c556f250755/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/5161d5840332dd5ae734a71674c93cb5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/faa0d5d697e4714b1d1783e3e45855c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/04ca98b971aafc01c6cad0e7124fad96/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/9811be838d1d3b4dad89932d26b48fe5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e726b07e433fe90395069cb2f43b7092/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d894254cffd721401ebc0fb0bda59e5a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/737aea3e2d1655f5623993d6ee4c7f6d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b6c91e13adadc81ce5775c2a6aad63a3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e0477ff3ccca2fff85e49f2afffbb885/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/6f50bfe7349210332ca1f38ed9270e59/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5ab7191cc6b470502d3830fcdaa09080/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7c4b2fb251a96a07290d55bacd9bab31/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7c981f045cdeea4ac1dc7114be9f542d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c44ce85352a965599b27b6dc9b996198/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2e5285bf2319fab8e7bbf3db491f5849/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/81e6983654b949ee03aad71bdc780911/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b569f840304ae1f4e0100877d0602175/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:5:5-70
+	android:name
+		ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:5:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:8:22-77
+application
+ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:10:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a3dcb461ca4c54d48938e4e5dc4c40d7/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a3dcb461ca4c54d48938e4e5dc4c40d7/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d894254cffd721401ebc0fb0bda59e5a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d894254cffd721401ebc0fb0bda59e5a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/737aea3e2d1655f5623993d6ee4c7f6d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/737aea3e2d1655f5623993d6ee4c7f6d/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d894254cffd721401ebc0fb0bda59e5a/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.ssh.smsreceiver.MainActivity
+ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4366b4075c0ad1cf7aec84ebba6483c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d4366b4075c0ad1cf7aec84ebba6483c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a3dcb461ca4c54d48938e4e5dc4c40d7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a3dcb461ca4c54d48938e4e5dc4c40d7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f09d82c039003d5e8cd015aa80105b53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f09d82c039003d5e8cd015aa80105b53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/4ab754e956f12b1997c0fa3a09a2f934/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/4ab754e956f12b1997c0fa3a09a2f934/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/0704d1873b648ec9758feebf29b79123/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/0704d1873b648ec9758feebf29b79123/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/12fbe091f5f6e11ba9ad8fc93d5e59d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/12fbe091f5f6e11ba9ad8fc93d5e59d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/fefd4159f86d554a43f21e89d3c83dc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/fefd4159f86d554a43f21e89d3c83dc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c09ef63c5e80899728644f7b6c27eada/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/c09ef63c5e80899728644f7b6c27eada/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/8f9eabb50d9a04c15af051bded36f97d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/8f9eabb50d9a04c15af051bded36f97d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/5b203f6246a47fdc0eb42c556f250755/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/5b203f6246a47fdc0eb42c556f250755/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/5161d5840332dd5ae734a71674c93cb5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/5161d5840332dd5ae734a71674c93cb5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/faa0d5d697e4714b1d1783e3e45855c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/faa0d5d697e4714b1d1783e3e45855c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/04ca98b971aafc01c6cad0e7124fad96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/04ca98b971aafc01c6cad0e7124fad96/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/9811be838d1d3b4dad89932d26b48fe5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/9811be838d1d3b4dad89932d26b48fe5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e726b07e433fe90395069cb2f43b7092/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/e726b07e433fe90395069cb2f43b7092/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d894254cffd721401ebc0fb0bda59e5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/d894254cffd721401ebc0fb0bda59e5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/737aea3e2d1655f5623993d6ee4c7f6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/737aea3e2d1655f5623993d6ee4c7f6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b6c91e13adadc81ce5775c2a6aad63a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b6c91e13adadc81ce5775c2a6aad63a3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e0477ff3ccca2fff85e49f2afffbb885/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e0477ff3ccca2fff85e49f2afffbb885/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/6f50bfe7349210332ca1f38ed9270e59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/6f50bfe7349210332ca1f38ed9270e59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5ab7191cc6b470502d3830fcdaa09080/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5ab7191cc6b470502d3830fcdaa09080/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7c4b2fb251a96a07290d55bacd9bab31/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7c4b2fb251a96a07290d55bacd9bab31/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7c981f045cdeea4ac1dc7114be9f542d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7c981f045cdeea4ac1dc7114be9f542d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c44ce85352a965599b27b6dc9b996198/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/c44ce85352a965599b27b6dc9b996198/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2e5285bf2319fab8e7bbf3db491f5849/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2e5285bf2319fab8e7bbf3db491f5849/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/81e6983654b949ee03aad71bdc780911/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/81e6983654b949ee03aad71bdc780911/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b569f840304ae1f4e0100877d0602175/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/gzuser/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b569f840304ae1f4e0100877d0602175/AndroidManifest.xml:20:5-44
+INJECTED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gzuser/Documents/GitHub/SmsReceiver/app/src/main/AndroidManifest.xml
