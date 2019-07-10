@@ -1,11 +1,11 @@
 package com.ssh.smsreceiver
 
+import android.annotation.SuppressLint
 import android.content.BroadcastReceiver
 import android.content.Context
 import android.content.Intent
 import android.content.IntentFilter
 import android.os.Bundle
-import android.os.Environment
 import android.os.Handler
 import android.os.Message
 import android.support.v7.app.AppCompatActivity
@@ -13,8 +13,6 @@ import android.telephony.SmsMessage
 import kotlinx.android.synthetic.main.activity_main.*
 import java.io.File
 import java.io.IOException
-import java.nio.file.Files.delete
-import java.nio.file.Files.exists
 
 
 class MainActivity : AppCompatActivity() {
@@ -76,20 +74,23 @@ class MainActivity : AppCompatActivity() {
         } else false
     }
 
-    private var updateUI: Handler = object : Handler() {
+    private var updateUI: Handler = @SuppressLint("HandlerLeak")
+    object : Handler() {
 
         override fun handleMessage(msg: Message) {
             super.handleMessage(msg)
             if (msg.what == 1) {
                 val txt = msg.data.getString("msg")
-                if (deleteFile(filesDir.absolutePath + "/" + fileName))
-                    writeFile(txt)
-                tv_content.text = readFile()
+                tv_content.text = txt
+                deleteFile(filesDir.absolutePath + "/" + fileName)
+                writeFile(txt)
             }
         }
+
     }
 
     class SmsReceiver(private val handler: Handler) : BroadcastReceiver() {
+
         override fun onReceive(p0: Context?, intent: Intent) {
             val content = StringBuilder()
             val bundle = intent.extras
@@ -108,6 +109,7 @@ class MainActivity : AppCompatActivity() {
             msg.data = b
             handler.sendMessage(msg)
         }
+
     }
 
     override fun onDestroy() {
