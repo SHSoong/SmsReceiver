@@ -1,0 +1,4 @@
+#Tue Jul 09 16:42:51 CST 2019
+base.0=/Users/gzuser/Documents/GitHub/SmsReceiver/app/build/intermediates/transforms/dexMerger/debug/21
+path.0=classes.dex
+renamed.0=classes.dex
